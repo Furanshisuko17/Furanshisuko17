@@ -1,5 +1,5 @@
 - Hi, I’m @Furanshisuko17
-- I’m interested in learning how to code python and java!
+- I’m interested in learning how to code Python and Rust!
 - I’m currently learning systems engineering!
 
 <!---
